@@ -1,0 +1,24 @@
+2024-06-16 19:05:10,997 [1] INFO  AElfChain.Common.Managers.NodeManager - Url:https://tdvw-test-node.aelf.io/ is connected!
+2024-06-16 19:05:11,288 [1] INFO  AElfChain.Common.Managers.AccountManager - Account '21cDKs1CrKy2eemZptxBVaMmumaLmV5V5b3aXUnWTC2GkG6VA1' successfully unlocked!
+2024-06-16 19:05:11,688 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Token contract address: ASh2Wt7nSEmYqnGxPPzp4pnVDU4uhj1XW9Se5VeZcX2UDdyjx
+2024-06-16 19:05:11,850 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Consensus contract address: 2KPUA5wG78nnNmK9JsRWbFiEFUEfei9WKniZuKaVziDKZRwchM
+2024-06-16 19:05:12,018 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Parliament contract address: vcv1qewcsFN2tVWqLuu7DJ5wVFA8YEx5FFgCQBb1jMCbAQHxV
+2024-06-16 19:05:12,074 [1] INFO  AElf.Deploy.Cli.Program - ======== AddWhiteList ========
+2024-06-16 19:05:12,263 [1] INFO  AElf.Deploy.Cli.Program - { "proposers": [ "V6LuP6FXKPoXqR5V9X2XuufZ8wSwKu4kNJbxY8i9JJ4NDPxib", "2UKQnHcQvhBT6X6ULtfnuh3b9PVRvVMEroHHkcK4YfcoH1Z1x2" ] }
+2024-06-16 19:05:12,364 [1] INFO  AElf.Deploy.Cli.Program - ======== Genesis contract is in ProposalWhiteList ========
+2024-06-16 19:05:12,365 [1] INFO  AElf.Deploy.Cli.Program - ======== WithoutApproval ========
+2024-06-16 19:05:13,082 [1] INFO  AElfChain.Common.Contracts.GenesisContract - Transaction method: DeployUserSmartContract, TxId: 4be7103e5a987efcb203fe1f3f5064ce06a59b995a46c594b78c2158c2d52721
+2024-06-16 19:05:14,522 [1] INFO  AElfChain.Common.Managers.NodeManager - Transaction 4be7103e5a987efcb203fe1f3f5064ce06a59b995a46c594b78c2158c2d52721 Method:DeployUserSmartContract, Status: Mined-[Fee=0]
+2024-06-16 19:05:15,529 [1] INFO  AElf.Deploy.Cli.Program - Code hash: 98c468d0a8702a2870be85ddceb9b251876b2585b85a1c4a3cc28bafe5856b40
+ ProposalInput: 032e05f5c68078171035846c8a88fcc5496dc979d84eefd88f923ceeefb9fd7e
+ Proposal Id: 3e2510ebef4dc8de848ad73501d3e393ea2b81e4ed62a914c92714aff94e1d0c
+2024-06-16 19:05:15,888 [1] INFO  AElf.Deploy.Cli.Program - ======== Check Proposal Info ========
+2024-06-16 19:05:39,779 [1] INFO  AElf.Deploy.Cli.Program - Check height: 123806409 - 123806458
+2024-06-16 19:05:58,749 [1] INFO  AElf.Deploy.Cli.Program - Release Transaction: ff0f5fe995cc50c475e41d9cd61ddd24c0c5228981ad22dfb5171a0ae196c6a8
+2024-06-16 19:05:58,751 [1] INFO  AElf.Deploy.Cli.Program - Author: "21cDKs1CrKy2eemZptxBVaMmumaLmV5V5b3aXUnWTC2GkG6VA1"
+2024-06-16 19:05:58,751 [1] INFO  AElf.Deploy.Cli.Program - Code hash: 98c468d0a8702a2870be85ddceb9b251876b2585b85a1c4a3cc28bafe5856b40
+2024-06-16 19:05:58,751 [1] INFO  AElf.Deploy.Cli.Program - Address: "XFDJx6wrVGBXHy7NhQViPqsaLypgnHhquuL6BFuA26TQGnaN9"
+Version: 1
+ContractVersion: 1.0.0.0
+Height: 123806436
+2024-06-16 19:05:58,926 [1] INFO  AElf.Deploy.Cli.Program - Deploy Contract Info: { "serialNumber": "1921", "author": "21cDKs1CrKy2eemZptxBVaMmumaLmV5V5b3aXUnWTC2GkG6VA1", "codeHash": "98c468d0a8702a2870be85ddceb9b251876b2585b85a1c4a3cc28bafe5856b40", "version": 1, "contractVersion": "1.0.0.0", "isUserContract": true, "deployer": "21cDKs1CrKy2eemZptxBVaMmumaLmV5V5b3aXUnWTC2GkG6VA1" }
